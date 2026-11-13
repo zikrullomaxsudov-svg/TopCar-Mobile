@@ -1,0 +1,6 @@
+{
+  "name": "TopCar — Premium Automotive Marketplace & ML Price Prediction",
+  "description": "Premium automotive marketplace and Machine Learning vehicle valuation platform for Uzbekistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
